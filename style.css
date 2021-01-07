@@ -1,0 +1,48 @@
+body {
+background-color:black;
+}
+nav {
+line-height: 50px;
+font-size: 25px;
+color: white;
+display: block;
+float:left;
+padding-right: 12px;
+margin-right: 12px;
+}
+section {
+display: inline;
+float: left;
+text-align: justify;
+padding: auto;
+margin-left: 25%;
+margin-right: 15%;
+margin-bottom: 15px;
+width: auto;
+}
+.section1 {
+display: inline;
+float: left;
+text-align: justify;
+padding: auto;
+margin-left: 22%;
+margin-bottom: 15px;
+width: auto;
+}
+.link {
+color: white;
+}
+aside {
+display: block;
+float: right;
+padding: 12px;
+}
+footer {
+clear: both;
+}
+.Infos {
+line-height: 5px;
+}
+.Hobby {
+line-height: 5px;
+}
