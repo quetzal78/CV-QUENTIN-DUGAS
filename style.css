@@ -1,3 +1,6 @@
+header{
+text-align: center;
+}
 body {
 background-color:black;
 }
@@ -29,9 +32,14 @@ clear: both;
 }
 .Infos {
 line-height: 5px;
+text-align: center;
 }
 .Hobby {
 line-height: 5px;
+text-align: center;
+}
+.Titre {
+text-align: center;
 }
 img{
 width: 100%;
