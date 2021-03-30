@@ -43,6 +43,8 @@ width: 100%;
     width: auto;
     margin-top: 5%;
     margin-bottom: 5%;
+    margin-left: 5%;
+    margin-right: auto;
 }
 .Exp {
     text-align: justify;
@@ -50,7 +52,12 @@ width: 100%;
     width: auto;
     margin-top: 5%;
     margin-bottom: 5%;
+    margin-left: 10%;
+    margin-right: auto;
 }
 .Titre {
     text-align: start;
+}
+ul{
+    color: white;
 }
