@@ -4,7 +4,7 @@ text-align: center;
 body {
 background-color:black;
 }
-section.section1 {
+.section1 {
 text-align: justify;
 float: left;
 width: 50%;
@@ -31,9 +31,26 @@ text-align: center;
 line-height: 5px;
 text-align: center;
 }
-.Titre {
+.Titre1 {
 text-align: center;
 }
 img{
 width: 100%;
+}
+.Forms {
+    text-align: justify;
+    float: left;
+    width: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.Exp {
+    text-align: justify;
+    float: left;
+    width: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+.Titre {
+    text-align: start;
 }
